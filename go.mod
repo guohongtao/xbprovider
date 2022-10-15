@@ -1,4 +1,4 @@
-module github.com/hyacinthus/xbprovider
+module github.com/guohongtao/xbprovider
 
 go 1.13
 
